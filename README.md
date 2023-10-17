@@ -1,2 +1,2 @@
-# avl
-AVL tree implementation in Haskell.
+# AVL
+[AVL tree](https://en.wikipedia.org/wiki/AVL_tree) implementation in Haskell.
